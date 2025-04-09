@@ -4,3 +4,6 @@ CentralLogin.sln
 .vs/CentralLogin/v15/Server/sqlite3/storage.ide
 .vs/CentralLogin/v15/Server/sqlite3/storage.ide-shm
 .vs/CentralLogin/v15/Server/sqlite3/storage.ide-wal
+/CentralLogin/.vs
+/CentralLogin/obj
+/CentralLogin/obj
